@@ -1,0 +1,7 @@
+amelia password homeowner amelia@gmail.com
+robyn password homeowner robyn@yahoo.co.uk
+oscar password homeowner oscar@icloud.com
+joe password student joe@hotmail.com
+eve password student eve@cardiff.ac.uk
+bill password student bill@gmail.com
+alex password admin alex@gmail.com

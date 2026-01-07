@@ -1,0 +1,5 @@
+1 Robyn Cardiff Cathays 620 6 bed.desk.wardrobe.ensuite.wifi none
+2 Amelia Cardiff Roath 580 10 bed.desk.wardrobe 2026-02-15-63
+3 Oscar Cardiff Adamsdown 690 10 bed.desk.wardrobe.ensuite 2025-11-23-84
+4 Robyn Cardiff Cathays 590 4 bed.wardrobe 2025-10-5-21.2025-12-28-21
+
